@@ -9,8 +9,8 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
 
 <div>
   <a href="https://github.com/christianalencar">
-  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=christianalencar&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true" />
-  <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianalencar&theme=dark&hide_border=false&&layout=compact" />
+  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=christianalencar&count_private=true&include_all_commits=true&show_icons=true&theme=white&hide_border=false&show_owner=true" />
+  <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianalencar&theme=white&hide_border=false&&layout=compact" />
 </div>
  
 ##
