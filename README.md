@@ -30,11 +30,3 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
   <a href="https://www.behance.net/christianalencar" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://www.instagram.com/christianalencarfotografo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
-##
-  
-<div align="center">
-   <img align="center" src="http://images.uncyc.org/pt/4/4f/Weregarurumon.gif" />
-   <p>Créditos: <a href="https://github.com/melpalhano">Melissa Palhano</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
