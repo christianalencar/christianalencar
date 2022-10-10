@@ -38,6 +38,8 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
 <div align="center">
   <a href="https://www.behance.net/christianalencar" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://www.instagram.com/christianalencarfotografo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/christianalencar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitesssssss" target="_blank"></a>
+  </a>
 </div>
 
 <br>
