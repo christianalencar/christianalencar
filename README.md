@@ -25,7 +25,15 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
    <img align="center" alt="Chris-NPy" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
    <img align="center" alt="Chris-SQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />             
 </div>
-  
+
+##
+
+Conquistas:<br>
+<div style="display: inline_block">
+  <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/194825370-9e826c6f-bb80-4aa0-87fa-5801e44f39f8.png" />
+  <img align="center" alt="ONE Desafio" height="100" widht="80"src="https://user-images.githubusercontent.com/100319396/194825408-9df2daff-15d1-4e82-9228-753b7a3c66c6.png" />
+</div>
+
 ##
   
 <div>
