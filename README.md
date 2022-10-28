@@ -44,7 +44,9 @@ Badge Adquiridas:
 
 <h2 align="left">DIO - BootCamps</h2>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/198043226-883c7b8c-9237-48bd-bd07-909aa409d143.png" /)
+  <img align="center" alt="Database Experience" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/198043226-883c7b8c-9237-48bd-bd07-909aa409d143.png" /)
+  <img align="center" alt="NTT Data Tech" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/198567414-6e7ebc3a-7e65-432c-8fb3-600bdbbe2b95.png" /)
+  
 </div>
 
 
