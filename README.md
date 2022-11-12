@@ -38,11 +38,11 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
 
 <div align="left"><h2>DIO - BootCamps - Badge</h2></div>
   
-<div align="center">
-    <img alggn="center" alt="NTT Data Tech" height="100" widht="80" scr="https://user-images.githubusercontent.com/100319396/198667797-041698dd-8385-48ac-b767-dc769ea9b88a.png" />
-    <img align="center" alt="Database Experience" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/198043226-883c7b8c-9237-48bd-bd07-909aa409d143.png" />
-    
+<div align="center" style="display: inline_block">
+    <img align="center" alt="NTT Data Tech" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/201491852-2849a14f-c229-47f5-ba58-cf68ebab2841.png" />
+    <img align="center" alt="Database Experience" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/198043226-883c7b8c-9237-48bd-bd07-909aa409d143.png" /> 
 </div>
+  
 <div align="left"><h2>Onde me encontrar:</h2></div>
 
 <div align="center" style="display: inline_block">
