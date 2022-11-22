@@ -33,7 +33,8 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
 <div align="center" style="display: inline_block">
   <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/194825370-9e826c6f-bb80-4aa0-87fa-5801e44f39f8.png" />
   <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/194825408-9df2daff-15d1-4e82-9228-753b7a3c66c6.png" />
-  <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/196825544-b67aa19d-3a18-41e2-b272-32fc5f46e3aa.png" />   
+  <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/196825544-b67aa19d-3a18-41e2-b272-32fc5f46e3aa.png" />
+   <img align="center" alt="ONE Desafio" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/203360031-a5438109-f7c0-4a71-9083-b25c297217c2.png" />
 </div>
 
 <div align="left"><h2>DIO - BootCamps - Badge</h2></div>
