@@ -31,6 +31,8 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
   
 <div align="center" style="display: inline_block">
     <img align="center" alt="Google Data Analytics" height="100" widht="80" src="https://github.com/christianalencar/christianalencar/assets/100319396/5b70b07c-55c7-424a-b806-88045462e6eb" />
+    <img align="center" alt="Google Project Management(PT)" height="100" widht="80" src="https://github.com/christianalencar/christianalencar/assets/100319396/d374b53c-e69f-476c-aed7-7718ee051c99" />
+    <img align="center" alt="Google Suporte de TI" height="100" widht="80" src="https://github.com/christianalencar/christianalencar/assets/100319396/88561eee-6527-43ab-8d05-2ee782c11af9" />
 </div>
   
   <h2 align="left"> ONE/Alura - Badge</h2>
@@ -49,8 +51,6 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
     <img align="center" alt="NTT Data Tech" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/201491852-2849a14f-c229-47f5-ba58-cf68ebab2841.png" />
     <img align="center" alt="Database Experience" height="100" widht="80" src="https://user-images.githubusercontent.com/100319396/198043226-883c7b8c-9237-48bd-bd07-909aa409d143.png" /> 
 </div>
-
-
   
 <div align="left"><h2>Onde me encontrar:</h2></div>
 <br>
@@ -64,5 +64,4 @@ Ei ei...Tudo bem com você? Eu sou Christian Alencar, satisfação em ter você 
 <br>
 
 <p align="center"><img src="http://images.uncyc.org/pt/4/4f/Weregarurumon.gif" /></p>
-
-Update: 08/08/2023
+<br>
